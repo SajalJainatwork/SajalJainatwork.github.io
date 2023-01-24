@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on Sajal Jain</title>
-    <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/tags/scene/</link>
+    <link>https://sajaljainatwork.github.io/tags/scene/</link>
     <description>Recent content in scene on Sajal Jain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://github.com/SajalJainatwork/SajalJainatwork.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://sajaljainatwork.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yahoo Finance Web Scrapper</title>
-      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-4/</link>
+      <link>https://sajaljainatwork.github.io/post/project-4/</link>
       <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
       
-      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-4/</guid>
+      <guid>https://sajaljainatwork.github.io/post/project-4/</guid>
       <description>In this project, I have to build a yahoo finance web scrapper to get stock prices from yahoo finance, This project was inspired as I was actively investing in the stock market and needed to automate the process to get and analyze data faster for various companies. The yahoo fin package help solves that huddle as it allows to automate of the process through a script written in python.
 Here is a code output for one of the functions from the yahoo fin package which gives the analyst info for Apple.</description>
     </item>
     
     <item>
       <title>Stock Market Real-Time Data Analysis</title>
-      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-1/</link>
+      <link>https://sajaljainatwork.github.io/post/project-1/</link>
       <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-1/</guid>
+      <guid>https://sajaljainatwork.github.io/post/project-1/</guid>
       <description>In this project, I have executed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka. I used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL. You can download the dataset for this demonstration from the following URL.
 Architecture Diagram Technology Used Programming Language - Python Amazon Web Service (AWS) S3 (Simple Storage Service) Athena Glue Crawler Glue Catalog EC2 Apache Kafka</description>
     </item>
