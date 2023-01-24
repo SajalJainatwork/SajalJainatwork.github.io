@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sajal Jain</title>
+    <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/</link>
+    <description>Recent content in Projects on Sajal Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Price Tracker</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-6/</link>
+      <pubDate>Fri, 15 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-6/</guid>
+      <description>The project was to analyze customer data for an Amazon company. The goal was to understand customer behavior and identify patterns and trends that could be used to improve the company&amp;rsquo;s marketing and sales strategies. I collected data from various sources, such as sales transactions, customer demographics, and marketing campaigns. The data was stored in a data lake, which I accessed using SQL. I cleaned the data by removing duplicates, handling missing values, and correcting errors.</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Filtering-Based Recommender</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-7/</link>
+      <pubDate>Thu, 14 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-7/</guid>
+      <description>I build a recommendation system for a movie dataset. The main reason behind carrying out this project was to understand how big tech companies recommend items to their users, companies like Amazon, Netflix, Spotify, and many more use recommendation systems to recommend items to their users daily. Overview Recommendation system work on the principle of “homophily” which means similar users prefer similar items, this means that companies can accurately predict which users are most likely to buy something / watch something.</description>
+    </item>
+    
+    <item>
+      <title>Walmart Retail Analysis</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-5/</link>
+      <pubDate>Wed, 13 Apr 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-5/</guid>
+      <description>The project was to analyze customer data for a Walmart company. The goal was to understand customer behavior and identify patterns and trends that could be used to improve the company&amp;rsquo;s marketing and sales strategies. The Walmart retail dataset contains information about some retail transactions. I collected data from various sources, such as sales transactions, customer demographics, and marketing campaigns. The data was stored in a data lake, which I accessed using SQL.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo Finance Web Scrapper</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-4/</link>
+      <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-4/</guid>
+      <description>In this project, I have to build a yahoo finance web scrapper to get stock prices from yahoo finance, This project was inspired as I was actively investing in the stock market and needed to automate the process to get and analyze data faster for various companies. The yahoo fin package help solves that huddle as it allows to automate of the process through a script written in python.
+Here is a code output for one of the functions from the yahoo fin package which gives the analyst info for Apple.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Bot</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-3/</link>
+      <pubDate>Mon, 11 Apr 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-3/</guid>
+      <description>Twitter Pipeline using Airflow Data Engineering project. This is an End-To-End Data Engineering Project using Airflow and Python. The data has been extracted using Twitter API. I have used python to transform data, deploy the code on Airflow/EC2 and save the final result on Amazon S3. This is a Visual Studio aimed at providing insights into major algorithms used in Data Analysis.
+Extract Tranform Load(ETL) To extract data from Twitter Twitter provides API to do all these things.</description>
+    </item>
+    
+    <item>
+      <title>YouTube Analysis</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-2/</link>
+      <pubDate>Sun, 10 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-2/</guid>
+      <description>This is an End-To-End Data Engineering Project using Kaggle Youtube Trending Dataset. The data has been downloaded from Kaggle.
+AWS Command Line Interface(s3_cli) Copying different files from your computer to an s3 bucket. I build a landing area and uploaded all the raw data using AWS CLI which got stored in an s3 bucket. Once data was uploaded into the s3 bucket I started analyzing the data. So I created a glue crawler to understand how the data is built.</description>
+    </item>
+    
+    <item>
+      <title>Stock Market Real-Time Data Analysis</title>
+      <link>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-1/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/SajalJainatwork/SajalJainatwork.github.io/post/project-1/</guid>
+      <description>In this project, I have executed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka. I used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL. You can download the dataset for this demonstration from the following URL.
+Architecture Diagram Technology Used Programming Language - Python Amazon Web Service (AWS) S3 (Simple Storage Service) Athena Glue Crawler Glue Catalog EC2 Apache Kafka</description>
+    </item>
+    
+  </channel>
+</rss>
